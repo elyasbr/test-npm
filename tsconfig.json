@@ -17,7 +17,7 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false ,
-    "rootDir": "src"
+    "rootDir": "."
   } ,
   "include": ["src/**/*" , "test/**/*"]
 }
