@@ -1,6 +1,6 @@
 {
   "name": "@elyasbr/my-nest-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom NestJS package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -60,7 +60,7 @@
     "testEnvironment": "node"
   },
   "files": [
-    "dist/"
+    "dist/**/*"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
