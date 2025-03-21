@@ -18,6 +18,5 @@
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false ,
     "rootDir": "./src"
-  } ,
-  "include": ["src/**/*" ]
+  }
 }
